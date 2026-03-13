@@ -47,14 +47,5 @@ The goal is not perfect accuracy but to demonstrate:
  "decision": "Likely Genuine"
 }
 
-## Example Output Screenshots
 
-### Valid Image Example
-![Valid Image Output](Screenshot from 2026-03-13 12-49-24.png)
-
-### OCR Text Detection Example
-![OCR Detection Output](Screenshot from 2026-03-13 12-49-53.png)
-
-### Fraud Detection API Response
-![Fraud Detection Output](Screenshot from 2026-03-13 15-46-20.png)
 
